@@ -1,0 +1,8 @@
+deepspeech
+wave
+tqdm
+shlex
+scipy
+pydub
+sklearn
+jiwer

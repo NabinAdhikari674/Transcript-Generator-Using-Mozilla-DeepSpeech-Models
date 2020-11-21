@@ -1,5 +1,6 @@
 This is a Transcript Generator using Mozilla DeepSpeech pre-trained Models.
 The Deepspeech version is 0.9.1. The Docs for it can be found here : https://deepspeech.readthedocs.io/
+Many Thanks to AutoSub : https://github.com/abhirooptalasila/AutoSub/tree/master/autosub
 
 The pre-trained models can be found and be downloaded here : 
 https://deepspeech.readthedocs.io/en/v0.9.1/USING.html#getting-the-pre-trained-model 
@@ -30,8 +31,8 @@ And Add Sox your Environment Path Variable.
 
 Finally the working of this Package =>
  
->> Run main.py to transcribe audio files in "audio" folder. The inferred transcript will be generated in "outputTranscripts" folder.
+*Run main.py to transcribe audio files in "audio" folder. The inferred transcript will be generated in "outputTranscripts" folder.
 
->> Run wordErrorRate.py to get WER,MER,WIL for inferred transcripts from "outputTranscripts" & original(real/true) transcripts from "transcripts" folders.
-The results/scores will be stored in RESULTS.txt.
-NOTE : the original transcripts will have to have the same name as the inferred transcripts.
+*Run wordErrorRate.py to get WER,MER,WIL for inferred transcripts from "outputTranscripts" & original(real/true) transcripts from "transcripts" folders.
+>The results/scores will be stored in RESULTS.txt.
+>>NOTE : the original transcripts will have to have the same name as the inferred transcripts.

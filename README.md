@@ -1,6 +1,7 @@
 This is a Transcript Generator using Mozilla DeepSpeech pre-trained Models.
 The Deepspeech version is 0.9.1. The Docs for it can be found here : https://deepspeech.readthedocs.io/
-Many Thanks to AutoSub : https://github.com/abhirooptalasila/AutoSub/tree/master/autosub
+
+>Many Thanks to abhirooptalasila for AutoSub : https://github.com/abhirooptalasila/AutoSub/tree/master/autosub
 
 The pre-trained models can be found and be downloaded here : 
 https://deepspeech.readthedocs.io/en/v0.9.1/USING.html#getting-the-pre-trained-model 
